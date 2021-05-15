@@ -4,7 +4,7 @@
 
 ### 내가 할수있는 언어는? 🖥
 ##### -> ☑️discord.py
-##### -> ☑️html
+
 
 <!--
 **repex10/repex10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
